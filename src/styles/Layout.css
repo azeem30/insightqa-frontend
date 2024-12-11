@@ -1,0 +1,8 @@
+.background {
+    height: 800px;
+    width: 1750px;
+    position: fixed;
+    left: 0%;
+    top: 51px;
+    background-color: #e6e6fa;
+}
